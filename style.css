@@ -11,6 +11,7 @@
     color: grey;
     border: solid thin grey;
     padding: 10px;
+    position: relative;
 }
 
 .newsletter button {
@@ -34,6 +35,14 @@
     border-radius: 3px;
     
     box-sizing: border-box;
+    
+}
+    .newsletter #closex{
+    position: absolute;
+    top: 0;
+    right: 4px;
+
+
 
 }
 
